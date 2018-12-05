@@ -1,0 +1,16 @@
+h1 {
+    margin: 10px 0px;
+}
+
+.foodList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.foodItemContainer {
+    border: 1px solid red;
+    margin: 10px 0px;
+    padding: 0px 10px 10px 10px;
+}
