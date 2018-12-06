@@ -15,7 +15,6 @@ h1 {
     margin: 10px 0px;
     padding: 0px 10px 10px 10px;
     width: 20%;
-    line-height: 20px;
 }
 
 .foodList2 > .foodItemContainer { border: 1px solid blue; }
